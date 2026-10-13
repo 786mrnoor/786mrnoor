@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Noor Mohammad](https://anandmainali.com.np)
+### Hi there 👋 I'm Noor Mohammad
 
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker who is proficient in an array of scripting languages and multimedia Web tools.
 
@@ -11,4 +11,4 @@ I have excellent coding skills, as well as an ability to convert requirements in
 
 ### Skills 🌐
 
-`HTML` `CSS` `JavaScript` `Bootstrap` `NodeJS` `React`  `ExpressJS` `MongoDB` `MySQL` `NextJS`
+`HTML` `CSS` `JavaScript` `TypeScript` `TailwindCSS` `Bootstrap` `NodeJS` `NextJS` `React` `ExpressJS` `MongoDB` `MySQL` `GIT/GITHUB`
